@@ -1,6 +1,6 @@
 - 👋 Oi! Me chamo Thiago Leandro Liporace, estudante de Ciencia da Computacao na Universidade Prebisteriana Mackenzie
-- 👀 Curso o 3 semestre, faco um projeto de Iniciacao Cientifica com jogos terapeuticos em VR
-- 🌱 Amo programar em C++(xodo), mas sei programar em C e Python tambem
+- 👀 Curso o 3 semestre, faco um projeto de Iniciacao Cientifica com jogos terapeuticos em VR, atualmente escrevendo um artigo internacional sobre avancos em tecnologias de captura de movimento que eu utilizo!
+- 🌱 Amo programar em C++, mas sei programar em C, C# e Python tambem
 - 💞️ Em relacionamento serio com structs
 - 📫 Programador iniciante
 
