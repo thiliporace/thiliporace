@@ -1,6 +1,6 @@
 - 👋 Hi! My name is Thiago Leandro Liporace, Computer Science student at Universidade Prebisteriana Mackenzie.
 
-- 👀 I am currently attending the 6th semester of CS, I also have undertaken a research project on therapeutic games in VR, that is now a chapter of the book "Vision Sensors - Recent Advances".
+- 👀 I am currently attending the 7th semester of CS, I also have undertaken a research project on therapeutic games in VR, that is now a chapter of the book "Vision Sensors - Recent Advances".
 
 - 🌱 I am currently interested in being part of the Games Industry, and am working on several projects related to the area.
 
