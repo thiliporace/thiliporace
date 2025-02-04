@@ -4,7 +4,7 @@
 
 - 🌱 I am currently interested in being part of the Games Industry, and am working on several projects related to the area.
 
-- 📫 Intermediate Programmer (Top 2% on CodersRank)
+- 📫 Intermediate Programmer (Top 1% on CodersRank)
 
 https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thiliporace
 
